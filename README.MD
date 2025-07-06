@@ -1,3 +1,3 @@
-MODBUS TCP Simulator & CLI Toolkit
+## ⚡ MODBUS Client Tool
 
-A lightweight, Python 3.11-based MODBUS TCP client-server simulator built for testing, education, and showcasing industrial communication logic in the energy sector. Runs fully from the CLI on Windows.
+A lightweight, Python based MODBUS TCP client-server simulator built for testing the MODBUS protocol. Runs fully from the CLI on Windows.
