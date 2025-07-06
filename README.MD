@@ -6,6 +6,12 @@ Currently only supports CS and HRs with hardcoded values on the server end.
 
 ### How to use it?
 
+#### Install Dependencies
+In order to use this tool, you need to have pymodbus installed on your machine. I specifically used the version 3.5.1 for this project.
+You can always install this dependency by using the following command:
+
+pip install pymodbus==3.5.1
+
 #### Simulating a Master:
 On a command line, cd to MODBUS-Simulator/Client. Use the following command:
 
